@@ -1,60 +1,38 @@
-# 🎧 RaveCore-Labs 💀
-
-*Built an organization from scratch. No fear. No bloat.*
-
+# 💀 Celestia Foundation 🔮
+*Zis is ze vay. Ordnung muss sein.*
+![Status](https://img.shields.io/badge/status-buildung-brightgreen?style=flat-square)
+![BPM](https://img.shields.io/badge/bpm-150%2B-ff69b4?style=flat-square)
+![GNOME](https://img.shields.io/badge/gnome-non--negotiable-orange?style=flat-square)
+![Fire Truck](https://img.shields.io/badge/firetruck-stored-red?style=flat-square)
+![Untz](https://img.shields.io/badge/untz-forever-9cf?style=flat-square)
 ---
-
-### 🔄 You Spin Me Right Round, Baby, Right Round 💿
-
-**Like a record, baby, right round, round, round**  
-**You spin me right round, baby, right round**- 
-
+### 🗣️🔊 Einen Jodler hör i gern
+> Einen Jodler hör i gern  
+> Aus der Näh und von der Fern  
+> Mit der Liab im Herzen drin  
+> Sing I 'n jeder Sennerin  
+> Darum zieh ich jedes Jahr  
+> In die Berge, das ist klar  
+> Und ich sing mit frohem Sinn  
+> Weil ich dann im Urlaub bin  
+**🎶 HOOO-LA-DEE-LA-DEE-LA-DEE-HOOO! 🎶**
 ---
-
-### 🎵 If I, I Get To Know Your Name... 🎵
-
-*Well, I could trace your ISO problems, baby*  
-*All I know is that to me*  
-*Solus look like it's havin' fun*  
-*But it crashes every ten minutes!*
-
-*USpin me round round*  
-*All we needed was ISO tools*  
-*But Solus let us down!*  
-*So now we're on Arch!*  
-
----
-
-### What We Do
-
-- 🖥️ **S3RLinux-Atomic** - The Atomic distro that goes HARD 💪
-- 🎧 **Solara** - its here (bulids are going good but not tested :3)...
-- 💀 Whatever comes next... MAYBE AN GPF DISTRO- **FUCK NO IM NOT THAT CRAZY.** *ludenberg would spawn the firetruck-*
-
----
-
-> *"One two three four - We don't need no enterprise"*
-
-> *"Fedora? No thanks. Discord mods!"*
-
-> *"All I know is that to me - Solus looks like it's having fun"*
-
-
----
-
+### VHAT VE DO
+| Produkt | Description |
+|---------|-------------|
+| **Solara Linux** | Ze flagship. Beautiful. Powerful. No GNOME allowed. |
+| **CelestiaOS** | Ze new project. Still in ze vorks. Vait your turn. |
+| **CelestiaWM** | It judges your vorkflow. Not you. |
+### ZE RULES
+1. Minimum 150 BPM or your repo is deleted
+2. Every bug is guilty until proven innocent
+3. No GNOME. Zis is non-negotiable.
+4. Ze fire truck is a trophy now.
 ### Contact
-
-- 📧 ash8820@proton.me
-- 🌍 Poland
-- ⏰ We reply eventually (maybe)
-
+- **📧** ash8820@proton.me
+- **🌍** Poland (ve have ze pierogi, ze vodka, und ze fire truck)
+- **⏰** Ve reply eventually. Maybe.
 ---
-
-**RAVE ALL NIGHT** 💀🎵
-
-*No tech support included. No refunds. Listen to S3RL while using our stuff - it's in the license (it's a joke but seriously do it).*
-
----
-
-🎶 *You spin me right round, baby, right round* 🎶  
-🎶 *Like a record, baby, right round, round, round* 🎶 
+![Untz Forever](https://img.shields.io/badge/untz-forever-ff69b4?style=for-the-badge)
+![Jodler Approved](https://img.shields.io/badge/jodler-approved-ff6b35?style=for-the-badge)
+*Built mit Schweiß, Tränen und zu viel Koffein.*
