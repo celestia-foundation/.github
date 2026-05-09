@@ -28,8 +28,8 @@
 ### What We Do
 
 - 🖥️ **S3RLinux-Atomic** - The Atomic distro that goes HARD 💪
-- 🎧 **Solara** - Coming soon (after Arch install)...
-- 💀 Whatever comes next...
+- 🎧 **Solara** - its here (bulids are going good but not tested :3)...
+- 💀 Whatever comes next... MAYBE AN GPF DISTRO- **FUCK NO IM NOT THAT CRAZY.** *ludenberg would spawn the firetruck-*
 
 ---
 
