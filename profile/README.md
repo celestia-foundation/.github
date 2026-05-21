@@ -23,6 +23,13 @@
 | **Solara Linux** | Ze flagship. Beautiful. Powerful. No GNOME allowed. |
 | **CelestiaOS** | Ze new project. Still in ze vorks. Vait your turn. |
 | **CelestiaWM** | It judges your vorkflow. Not you. |
+
+### ZE TEAM
+| Role | Person | Notes |
+|------|--------|-------|
+| **Founder** | c-ludenberg | Poland • Ze one who started zis madness |
+| **Co-Owner** | sinisterMage (Lord Nova on Discord) | 🔮 Ze surprise • Here for ze chaos |
+
 ### ZE RULES
 1. Minimum 150 BPM or your repo is deleted
 2. Every bug is guilty until proven innocent
