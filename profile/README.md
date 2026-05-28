@@ -22,7 +22,7 @@
 |---------|-------------|
 | **Solara Linux** | Ze flagship. Beautiful. Powerful. No GNOME allowed. |
 | **CelestiaOS** | Ze new project. Still in ze vorks. Vait your turn. |
-| **CelestiaWM** | It judges your vorkflow. Not you. |
+| **CelestiaWM** | It judges your vorkflow. Not you. (not maintained) |
 
 ### ZE TEAM
 | Role | Person | Notes |
