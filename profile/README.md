@@ -6,6 +6,13 @@
 ![Fire Truck](https://img.shields.io/badge/firetruck-stored-red?style=flat-square)
 ![Untz](https://img.shields.io/badge/untz-forever-9cf?style=flat-square)
 ---
+**We've been noticed by the Open Invention Network that Solara is officially part of the OIN as a Tier 5 Community Member and protected by the OIN 2.0 License try to sue us bitches :3**
+---
+
+*note very important xd: other projects like argentumOS or CelestiaOS aren't protected by OIN yet we plan (not xdd) to protect them*
+
+---
+
 ### 🗣️🔊 Einen Jodler hör i gern
 > Einen Jodler hör i gern  
 > Aus der Näh und von der Fern  
