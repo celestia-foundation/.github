@@ -34,8 +34,8 @@
 ### ZE TEAM
 | Role | Person | Notes |
 |------|--------|-------|
-| **Founder** | c-ludenberg | Poland • Ze one who started zis madness |
-| **Co-Owner** | sinisterMage (Lord Nova on Discord) | 🔮 Ze surprise • Here for ze chaos |
+| **Founder** | c-ludenberg | Poland • Ze one who started zis madness, Gay 🏳️‍🌈 (Yes and i'm proud) |
+| **Co-Owner** | sinisterMage (Lord Nova on Discord) | 🔮 Ze surprise • Here for ze chaos (celestia's remote crush XDDD)|
 
 ### ZE RULES
 1. Minimum 150 BPM or your repo is deleted
